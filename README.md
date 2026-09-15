@@ -1,4 +1,4 @@
-# Climate Challenge Week 0
+# Climate series
 
 ## Overview
 This project analyzes historical climate data for 5 African countries:
